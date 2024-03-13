@@ -21,7 +21,7 @@ _7. Meal planning. Combines genetic information with artificial intelligence to 
 _8. Real-time feedback systems. Integrates motion capture technology and artificial intelligence algorithms to provide instant insight into an athlete's form and performance, helping to make immediate adjustments during training._
 
 
-Thor is more like an advanced and updated version of traditional fitness apps in the metaverse. In today's environment, where almost every web3 application has a fairly high barrier to entry, Tor is unrivaled. Combined with an accessible "fitness at home" concept for everyone, a large number of apps and a strong international team dedicated to developing and promoting the project, Thor is highly likely to become the next generation unicorn project and achieve long-term success. . the long-term goal is 10 million registered users.  
+Thor is more like an advanced and updated version of traditional fitness apps in the metaverse. In today's environment, where almost every web3 application has a fairly high barrier to entry, Thor is unrivaled. Combined with an accessible "fitness at home" concept for everyone, a large number of apps and a strong international team dedicated to developing and promoting the project, Thor is highly likely to become the next generation unicorn project and achieve long-term success - 10 million registered users.  
 
 
 ### [Presentation for the THOR project](https://www.canva.com/design/DAF-whcr3dw/tO_C-87zsdHE-ZvCtQfM_w/edit?utm_content=DAF-whcr3dw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
