@@ -28,5 +28,5 @@ Thor is more like an advanced and updated version of traditional fitness apps in
  
 ! <img width="249" alt="Screenshot 2024-03-13 at 2 06 44 PM" src="https://github.com/halinakryvanos/Thor/assets/115924234/b3d7f78c-af0a-4f36-9887-350e71e4b216">
 
-Keep Your Instagram account name and most social media accounts as [@Physical_developer](https://ig.me/m/physical_developer?ref=thor)
+Keep Instagram account name and most social media accounts as [@Physical_developer](https://ig.me/m/physical_developer?ref=thor)
 
