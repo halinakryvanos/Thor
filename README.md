@@ -6,7 +6,7 @@ The project's long-term goal is to disrupt the blockchain and home fitness indus
 Thor uses advanced artificial intelligence and computer vision technologies to recognize 32 joints using a smartphone and track all basic human movements, as well as determine the user's body position in real time and with high accuracy. This is a key difference from the traditional Move to Earn concept, which focuses solely on running.
 
 
-### Artificial intelligence technologies in Tor recognize movements using:
+### Artificial intelligence technologies in Thor recognize movements using:
 
 _1. Recognition and tracking of the main points of the limbs;_
 
